@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ruby on Rails
 - 🌱 I’m currently learning Red Teaming
-- 👯 I’m looking to collaborate on Integrating Cybersecurity in your workflows.
+- 👯 I’m looking to collaborate on Integrating Cybersecurity in your life.
 - 🤔 I’m looking for help with career guidance 
 - 💬 Ask me about anything 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-6521b01aa/)
