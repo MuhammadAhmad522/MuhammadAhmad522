@@ -11,6 +11,9 @@ Here’s a little about me:
 - 💬 **Feel free to ask me about:** Anything related to tech, cybersecurity, or even life advice
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-6521b01aa/)
 - 😄 **Pronouns:** Pronouns are generated at runtime..!
+- 👨‍💻 **All of my projects are available at** [H4PPySecurity](https://happysecurity.me)
+- 📝 **I regularly write articles on** [Blogspot](https://happysec.blogspot.com/)
+- 📄 **Know about my experiences** [Resume](https://drive.google.com/file/d/1noa_nX_NH8ear9dtrJbpYymbdJjtReIL/view?usp=sharing)
 - ⚡ **Fun Fact:** 💍 I’m on the lookout for a beautiful bride this year. Who said you can’t mix romance with a bit of code?
 
 ### Let’s Connect!
