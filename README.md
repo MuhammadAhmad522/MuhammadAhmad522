@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 Here’s a little about me:
 
-- 🔭 **Currently working on:** Ansible
+- 🔭 **Currently working on:** Kubernetes
 - 🌱 **Currently learning:** DevSecOps (I’m keen on integrating DevOps practices to enhance security and efficiency!)
 - 👯 **Looking to collaborate on:** Integrating Cybersecurity into various projects
 - 🤔 **Seeking help with:** Career guidance and opportunities for growth in cybersecurity
