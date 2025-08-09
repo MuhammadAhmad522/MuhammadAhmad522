@@ -13,7 +13,7 @@ Here’s a little about me:
 - 😄 **Pronouns:** Pronouns are generated at runtime..!
 - 👨‍💻 **All of my projects are available at** [H4PPySecurity](https://happysecurity.me)
 - 📝 **I regularly write articles on** [Blogspot](https://happysec.blogspot.com/)
-- 📄 **Know about my experiences** [Resume](https://drive.google.com/file/d/1fogpZ81xIi0qe0NBYTp8vRKBKcg5YPaY/view?usp=drivesdk)
+- 📄 **Know about my experiences** [Resume](https://drive.google.com/file/d/1pmQaryLg4eL2mbv_Z64DOcbd8GeV78j-/view?usp=sharing)
 - ⚡ **Fun Fact:** 💍 I’m on the lookout for a beautiful bride this year. Who said you can’t mix romance with a bit of code?
 
 ### Let’s Connect!
